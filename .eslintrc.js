@@ -26,7 +26,11 @@ module.exports = {
         ],
         "no-console": [
             "off",
-            { allow: ["warn", "error"] }
+            { "allow": [ "warn", "error" ] }
+        ],
+        "no-constant-condition": [
+            "error", 
+            { "checkLoops": false }
         ]
     }
 };
