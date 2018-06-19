@@ -46,7 +46,7 @@ function addTimeout(fn, timeout = 1000) {
 function launch() {
     return new Promise(function(resolve) {
         console.log("Lift off!");
-        if (Math.random() < 0.9)
+        if (Math.random() < 0.5)
             return;
 
         setTimeout(function() {
