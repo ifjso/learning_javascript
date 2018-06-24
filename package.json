@@ -14,5 +14,8 @@
     "gulp": "^3.9.1",
     "gulp-babel": "^7.0.1",
     "gulp-eslint": "^4.0.2"
+  },
+  "dependencies": {
+    "moment-timezone": "^0.5.21"
   }
 }
