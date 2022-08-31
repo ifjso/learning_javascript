@@ -16,7 +16,7 @@
     "gulp-eslint": "^4.0.2"
   },
   "dependencies": {
-    "moment-timezone": "^0.5.21"
+    "moment-timezone": "^0.5.35"
   },
   "resolutions": {
     "yargs-parser": "^13.1.2"
